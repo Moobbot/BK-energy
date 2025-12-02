@@ -16,4 +16,28 @@ Phân tích ảnh hưởng của các yếu tố môi trường và chủ quan l
    - Tình trạng tấm pin PV (thông qua điện trở cách điện, điện dung rò)
    - Hiệu suất bộ nghịch lưu DC-AC (thông qua số lần chuyển mạch, lỗi, cảnh báo)
 
-Cac thong tin khac se bo sung sau.
+## Cài đặt
+
+```bash
+pip install -r requirements.txt
+```
+
+## Sử dụng
+
+Chạy script phân tích:
+
+## Kết quả
+
+...
+
+## Cấu trúc dữ liệu
+
+...
+
+## Phân tích
+
+...
+
+## Lưu ý
+
+...
