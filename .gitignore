@@ -1,0 +1,13 @@
+datasets/
+output/
+.env
+.venv/
+__pycache__
+
+
+# Draf
+
+preprocessing
+run_preprocessing.py
+
+visualizations
